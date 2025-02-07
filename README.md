@@ -9,10 +9,10 @@ Google Fonts para uma melhor tipografia
 
 🎨 Recursos:
 
-✅ Estilo moderno com gradiente de fundo
-✅ Efeito hover para destacar as linhas da tabela
-✅ Centralização da tabela na tela para um layout mais profissional
-✅ Diferenciação de cores entre linhas pares e ímpares
+✅ Estilo moderno com gradiente de fundo <hr>
+✅ Efeito hover para destacar as linhas da tabela <hr>
+✅ Centralização da tabela na tela para um layout mais profissional<hr>
+✅ Diferenciação de cores entre linhas pares e ímpares<hr>
 
 📌 Melhorias futuras:
 
