@@ -1,4 +1,5 @@
-📊 *Projeto: Tabela Interativa com HTML e CSS
+📊 **Projeto: Tabela Interativa com HTML e CSS**
+
 Este projeto apresenta uma tabela estilizada com efeitos visuais modernos, incluindo gradiente de fundo, efeitos de hover e design responsivo.
 
 🚀 Tecnologias utilizadas:
