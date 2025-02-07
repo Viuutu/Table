@@ -2,10 +2,13 @@
 
 Este projeto apresenta uma tabela estilizada com efeitos visuais modernos, incluindo gradiente de fundo, efeitos de hover e design responsivo.
 <hr>
-🚀 Tecnologias utilizadas:
-HTML5 para estruturação da tabela
-CSS3 para estilização, incluindo gradientes e sombras
-Google Fonts para uma melhor tipografia
+<br>
+
+🚀 Tecnologias utilizadas:<br>
+
+* HTML5 para estruturação da tabela
+* CSS3 para estilização, incluindo gradientes e sombras
+* Google Fonts para uma melhor tipografia
 
 
 🎨 Recursos:
